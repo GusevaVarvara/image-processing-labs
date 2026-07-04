@@ -32,3 +32,10 @@
 Во время выполнения лабораторных работ использовались как отдельные изображения, так и открытые датасеты, включая набор изображений собак различных пород. Для каждого задания проводился анализ результатов, сравнение различных методов обработки изображений и оценка их эффективности в зависимости от поставленной задачи.
 
 Цель работы — изучить основные алгоритмы цифровой обработки изображений и компьютерного зрения, освоить их практическое применение и сравнить эффективность классических методов и современных подходов глубокого обучения при решении задач анализа, генерации и сегментации изображений.
+
+| Файл | Colab |
+|---|---|
+| [1_image_processing_basics.ipynb](./1_image_processing_basics.ipynb) | [Открыть в Colab](https://colab.research.google.com/drive/1QP4y4tLrjgr_uPR0Czfx6H7rUmvgh8L-?usp=sharing) |
+| [2_image_analysis_and_segmentation.ipynb](./2_image_analysis_and_segmentation.ipynb) | [Открыть в Colab](https://colab.research.google.com/drive/1xGqmL-var8jC__mtFYeO_2_-YsaQR4_T?usp=sharing) |
+| [3_conditional_gan_for_image_generation.ipynb](./3_conditional_gan_for_image_generation.ipynb) | [Открыть в Colab](https://colab.research.google.com/drive/14jODI2mTGCGwa3FpGHX6ekj_5fGu6BY3?usp=sharing) |
+| [4_image_segmentation_methods.ipynb](./4_image_segmentation_methods.ipynb) | [Открыть в Colab](https://colab.research.google.com/drive/16l7PklpSZmS2jl6as_dMhCTN86NDFAL4?usp=sharing) |
